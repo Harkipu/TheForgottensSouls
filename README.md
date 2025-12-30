@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/Haunting%20Echoes.gif">
+<img width="100%" src="https://github.com/Harkipu/GifandStuff/blob/main/ForgottenSoulsVid.gif">
 
 <br>
 
@@ -45,5 +45,5 @@ Felix Olivier Stefano - 2D Game Artist
 
 Pieter Nathanael Setiawan - Game Programmer
 
-Clifftoven Wicaksono - Game Programmer (Manarandomizing)
+Clifftoven Wicaksono - Game Programmer (Main Menu, Audio, Shop, Wave, Pause, Game Over, Damage Feedback, bug fixes and things)
 
